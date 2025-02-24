@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEQcq3Ra3NM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rosamund H\\Source\\Repos\\liveproject-in-memory-representations-of-data\\GtcTool\\GtcTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.2\\microsoft.extensions.configuration.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.2\\microsoft.extensions.configuration.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

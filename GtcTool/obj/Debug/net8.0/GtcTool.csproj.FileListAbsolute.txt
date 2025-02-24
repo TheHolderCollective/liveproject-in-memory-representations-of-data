@@ -1,0 +1,5 @@
+C:\Users\Rosamund H\Source\Repos\liveproject-in-memory-representations-of-data\GtcTool\obj\Debug\net8.0\GtcTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosamund H\Source\Repos\liveproject-in-memory-representations-of-data\GtcTool\obj\Debug\net8.0\GtcTool.AssemblyInfoInputs.cache
+C:\Users\Rosamund H\Source\Repos\liveproject-in-memory-representations-of-data\GtcTool\obj\Debug\net8.0\GtcTool.AssemblyInfo.cs
+C:\Users\Rosamund H\Source\Repos\liveproject-in-memory-representations-of-data\GtcTool\obj\Debug\net8.0\GtcTool.csproj.CoreCompileInputs.cache
+C:\Users\Rosamund H\Source\Repos\liveproject-in-memory-representations-of-data\GtcTool\obj\Debug\net8.0\GtcTool.sourcelink.json
