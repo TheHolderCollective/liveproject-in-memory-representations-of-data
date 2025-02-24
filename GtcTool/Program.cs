@@ -1,4 +1,5 @@
-﻿using Gtc.Services;
+﻿
+using Gtc.Services;
 // Uncomment the following line for Milestone 1
 // using Gtc.Models.Congress;
 
