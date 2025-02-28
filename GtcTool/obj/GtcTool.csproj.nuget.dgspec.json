@@ -53,6 +53,18 @@
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[9.0.2, )"
             }
           },
           "imports": [

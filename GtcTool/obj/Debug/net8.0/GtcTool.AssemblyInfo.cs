@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ApiKey")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GtcTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3abfc1bd1744d34707a0d499a7b599d53f72762f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a322a7dea98798bf40c37306ccf90b7ceed52a98")]
 [assembly: System.Reflection.AssemblyProductAttribute("GtcTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GtcTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

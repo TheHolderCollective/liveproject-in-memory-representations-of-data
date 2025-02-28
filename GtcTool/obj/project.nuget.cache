@@ -1,12 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "kEQcq3Ra3NM=",
+  "dgSpecHash": "Bu/hRFFNVyU=",
   "success": true,
   "projectFilePath": "C:\\Users\\Rosamund H\\Source\\Repos\\liveproject-in-memory-representations-of-data\\GtcTool\\GtcTool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.2\\microsoft.extensions.configuration.9.0.2.nupkg.sha512",
     "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.2\\microsoft.extensions.configuration.abstractions.9.0.2.nupkg.sha512",
-    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512"
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.2\\microsoft.extensions.configuration.binder.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\9.0.2\\microsoft.extensions.configuration.environmentvariables.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.2\\microsoft.extensions.configuration.fileextensions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.2\\microsoft.extensions.configuration.json.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\9.0.2\\microsoft.extensions.configuration.usersecrets.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.2\\microsoft.extensions.fileproviders.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.2\\microsoft.extensions.fileproviders.physical.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.2\\microsoft.extensions.filesystemglobbing.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\system.io.pipelines\\9.0.2\\system.io.pipelines.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\system.text.encodings.web\\9.0.2\\system.text.encodings.web.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rosamund H\\.nuget\\packages\\system.text.json\\9.0.2\\system.text.json.9.0.2.nupkg.sha512"
   ],
   "logs": []
 }

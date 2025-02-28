@@ -4,13 +4,11 @@ namespace Gtc.Services;
 class MenuService
 {
     private readonly FederalRegisterService FederalRegisterService;
-    //private readonly CongressService CongressService;
-    public MenuService(FederalRegisterService federalRegisterService
-    //, CongressService congressService
-    )
+    private readonly CongressService CongressService;
+    public MenuService(FederalRegisterService federalRegisterService, CongressService congressService)
     {
         FederalRegisterService = federalRegisterService;
-        //  CongressService = congressService;
+        CongressService = congressService;
     }
 
     public async Task ShowMenu()
@@ -37,14 +35,13 @@ class MenuService
                         break;
                     case 2:
                         Console.WriteLine("You chose option 2.");
-
-                        //                        var responseCongress = await CongressService.GetCongressResponseWithPackagesAsync();
-                        // Console.WriteLine(responseCongress.response);
-                        // if (responseCongress.packages.Count > 0)
-                        // {
-                        //     Console.WriteLine("There are specific documents for your request.");
-                        //     Console.WriteLine(responseCongress.packages.ListToString());
-                        // }
+                        var responseCongress = await CongressService.GetCongressResponseWithPackagesAsync();
+                        Console.WriteLine(responseCongress.response);
+                        if (responseCongress.packages.Count > 0)
+                        {
+                            Console.WriteLine("There are specific documents for your request.");
+                            Console.WriteLine(responseCongress.packages.ListToString());
+                        }
                         Console.ReadLine();
                         break;
                     case 3:
@@ -52,6 +49,7 @@ class MenuService
                         return;
                     default:
                         Console.WriteLine("Invalid selection.");
+                        Console.ReadLine();
                         break;
                 }
             }

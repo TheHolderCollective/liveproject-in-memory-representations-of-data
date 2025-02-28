@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.Configuration;
-
 public class SecretConfigReader
 {
     public T? ReadSection<T>(string sectionName)

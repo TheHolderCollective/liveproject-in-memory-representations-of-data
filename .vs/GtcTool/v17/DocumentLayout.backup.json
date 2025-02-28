@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|c:\\users\\rosamund h\\source\\repos\\liveproject-in-memory-representations-of-data\\gtctool\\services\\congressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|solutionrelative:gtctool\\services\\congressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|c:\\users\\rosamund h\\source\\repos\\liveproject-in-memory-representations-of-data\\gtctool\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|solutionrelative:gtctool\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|c:\\users\\rosamund h\\source\\repos\\liveproject-in-memory-representations-of-data\\gtctool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|solutionrelative:gtctool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|c:\\users\\rosamund h\\source\\repos\\liveproject-in-memory-representations-of-data\\gtctool\\models\\congress\\congressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|solutionrelative:gtctool\\models\\congress\\congressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|c:\\users\\rosamund h\\source\\repos\\liveproject-in-memory-representations-of-data\\gtctool\\models\\congress\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|solutionrelative:gtctool\\models\\congress\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|c:\\users\\rosamund h\\source\\repos\\liveproject-in-memory-representations-of-data\\gtctool\\models\\federalregister\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769498C4-4ADB-4C5A-93AA-84A0D4D1C0AC}|GtcTool\\GtcTool.csproj|solutionrelative:gtctool\\models\\federalregister\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "GtcTool\\Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Services\\MenuService.cs",
+              "RelativeToolTip": "GtcTool\\Services\\MenuService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvzUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:19:13.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Models\\Congress\\Package.cs",
+              "RelativeDocumentMoniker": "GtcTool\\Models\\Congress\\Package.cs",
+              "ToolTip": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Models\\Congress\\Package.cs",
+              "RelativeToolTip": "GtcTool\\Models\\Congress\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:06:00.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CongressService.cs",
+              "DocumentMoniker": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Services\\CongressService.cs",
+              "RelativeDocumentMoniker": "GtcTool\\Services\\CongressService.cs",
+              "ToolTip": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Services\\CongressService.cs",
+              "RelativeToolTip": "GtcTool\\Services\\CongressService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:27:24.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CongressResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Models\\Congress\\CongressResponse.cs",
+              "RelativeDocumentMoniker": "GtcTool\\Models\\Congress\\CongressResponse.cs",
+              "ToolTip": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Models\\Congress\\CongressResponse.cs",
+              "RelativeToolTip": "GtcTool\\Models\\Congress\\CongressResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:16:18.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Program.cs",
+              "RelativeDocumentMoniker": "GtcTool\\Program.cs",
+              "ToolTip": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Program.cs",
+              "RelativeToolTip": "GtcTool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:56:29.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "57a14860-97de-4013-8a55-3097afbde5a7",
+        "Display": 1,
+        "X": 174,
+        "Y": -49,
+        "Width": 1230,
+        "Height": 758,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Models\\FederalRegister\\Response.cs",
+              "RelativeDocumentMoniker": "GtcTool\\Models\\FederalRegister\\Response.cs",
+              "ToolTip": "C:\\Users\\Rosamund H\\source\\repos\\liveproject-in-memory-representations-of-data\\GtcTool\\Models\\FederalRegister\\Response.cs",
+              "RelativeToolTip": "GtcTool\\Models\\FederalRegister\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:29:59.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
